@@ -2,7 +2,7 @@
 
 Training pipeline for a CI/CD pipeline-failure classifier. This is a
 trainable, non-LLM alternative to the `LLMPredictor` in
-[predictive-cicd-remediation](https://github.com/saikrishna6323/predictive-cicd-remediation),
+[predictive-cicd-remediation](https://github.com/SivaSaiKrishnaSuryadevara/predictive-cicd-remediation),
 useful when you want a lightweight model instead of calling an external LLM API.
 
 ## Contents
